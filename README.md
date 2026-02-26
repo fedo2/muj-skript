@@ -1,0 +1,1 @@
+Testovací úloha pro git
